@@ -128,7 +128,7 @@
 .orange-img {
   height: 60vh;
   width: 50vw;
-  background-image: url(image/image1\ \(1\).jpeg);
+  background-image: url(image/development-img.jpeg);
   background-repeat: no-repeat;
   background-size: cover;
   float: left;
@@ -177,6 +177,8 @@
 .photos {
   display: flex;
   flex-wrap: wrap;
+  align-items: center;
+  justify-content: center;
   margin-top: 2rem;
   margin-bottom: 2rem;
 
@@ -184,7 +186,7 @@
 }
 
 .photos-imgs {
-  width: 24.4vw;
+  width: 24vw;
   height: 24vh;
   margin: 0.2rem;
 
@@ -299,7 +301,7 @@
 
 /* request callback  */
 .call-img {
-  background-image: url(image/istockphoto-1430286042-612x612.jpg);
+  background-image: url(image/callback-img.jpg);
   width: 50vw;
   height: 50vh;
   background-repeat: no-repeat;
